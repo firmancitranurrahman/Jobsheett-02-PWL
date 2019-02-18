@@ -1,4 +1,4 @@
-import { BioService } from './../../services/bio.service';
+import { BioService } from './../service/bio.service';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
